@@ -13,7 +13,7 @@ from datetime import datetime
 
 def _get_accident_api():
     
-    api_key = "DQdXFnbDsgMU3QEmQoDM9E1KvECWJNZK"
+    api_key = "dbDpPvmHXdwFJgVsN270o9Cpe2znbaUS"
 
     headers = {
     "api-key": api_key,
